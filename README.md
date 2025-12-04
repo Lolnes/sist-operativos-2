@@ -6,7 +6,6 @@ Este programa es una herramienta sencilla que simula cómo una computadora admin
 
 Necesitas tener instalado un compilador de C (como **GCC**).
 * **En Linux/Mac:** Generalmente ya viene instalado o se instala fácil desde la terminal.
-* **En Windows:** Se recomienda usar "MinGW" o la terminal de "Git Bash".
 
 ## Instrucciones de Uso
 
@@ -32,10 +31,10 @@ Inicia el programa con este comando:
 Al iniciar, el programa te pedirá dos números. Aquí tienes un ejemplo recomendado para empezar:
 
 1.  **Tamaño de memoria física (en MB):** Escribe `16` y pulsa Enter.
-    *(Esto define cuánta memoria RAM tiene tu computadora simulada).*
+   
 
 2.  **Tamaño de página (en KB):** Escribe `4` y pulsa Enter.
-    *(Esto define el tamaño de los bloques en los que se divide la memoria).*
+   
 
 **¡Listo!** El programa empezará a funcionar solo. Verás texto apareciendo que indica que se están creando procesos y moviendo memoria.
 
